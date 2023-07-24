@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Swiftwings-travel-website/static/css/main.97b4e58f.css",
-    "main.js": "/Swiftwings-travel-website/static/js/main.877ed18e.js",
-    "static/js/787.8a220983.chunk.js": "/Swiftwings-travel-website/static/js/787.8a220983.chunk.js",
-    "index.html": "/Swiftwings-travel-website/index.html",
-    "main.97b4e58f.css.map": "/Swiftwings-travel-website/static/css/main.97b4e58f.css.map",
-    "main.877ed18e.js.map": "/Swiftwings-travel-website/static/js/main.877ed18e.js.map",
-    "787.8a220983.chunk.js.map": "/Swiftwings-travel-website/static/js/787.8a220983.chunk.js.map"
+    "main.css": "/Swiftwings-travel-website.git/static/css/main.97b4e58f.css",
+    "main.js": "/Swiftwings-travel-website.git/static/js/main.fa0828c6.js",
+    "static/js/787.8a220983.chunk.js": "/Swiftwings-travel-website.git/static/js/787.8a220983.chunk.js",
+    "index.html": "/Swiftwings-travel-website.git/index.html",
+    "main.97b4e58f.css.map": "/Swiftwings-travel-website.git/static/css/main.97b4e58f.css.map",
+    "main.fa0828c6.js.map": "/Swiftwings-travel-website.git/static/js/main.fa0828c6.js.map",
+    "787.8a220983.chunk.js.map": "/Swiftwings-travel-website.git/static/js/787.8a220983.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97b4e58f.css",
-    "static/js/main.877ed18e.js"
+    "static/js/main.fa0828c6.js"
   ]
 }
